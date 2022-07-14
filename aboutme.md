@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mengapa Kamu ingin mengenalku?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Namaku Rendi Riansyah. Aku memiliki kualitas berikut:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Aku sangat menyayangi keluargaku.
+- Aku menyukai musik.
 
-What else do you need?
+Apa lagi yang Kamu ingin tahu tentangku?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sejujurnya, Aku akan sangat merasa bahagia jika Kamu mau berteman denganku, jadi mengapa Kamu tidak menghubungiku melalui [email](mailto:rendiriansyah78@gmail.com) dan Aku akan menjawab **all** pertanyaanmu.
