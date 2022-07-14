@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Rendi 
+title: Rendi Riansyah
 
 # Your name to show in the footer
-author: Some Person
+author: Copyright
 
 # --- List of links in the navigation bar --- #
 
@@ -43,15 +43,14 @@ social-network-links:
   facebook: https://www.facebook.com/rendiriansyahdotcom
   github: daattali
   twitter: https://www.twitter.com/rendiriansyahh
-  patreon: DeanAttali
-  youtube: c/daattali
+  instagram: https://www.instagram.com/rendiriansyahh
+  youtube: youtube.com/RendiRiansyah
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
