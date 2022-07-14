@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Kontak: "https://www.rendiriansyah.com/p/contact.html"
 
 # --- Logo --- #
 
@@ -41,7 +41,6 @@ round-avatar: true
 social-network-links:
   email: "rendiriansyah78@gmail.com"
   facebook: https://www.facebook.com/rendiriansyahdotcom
-  github: daattali
   twitter: https://www.twitter.com/rendiriansyahh
   instagram: https://www.instagram.com/rendiriansyahh
   youtube: youtube.com/RendiRiansyah
